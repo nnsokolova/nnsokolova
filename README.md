@@ -9,7 +9,7 @@
 </p><br>
 
 # 🎓 Education
-- **Master’s Degree in Public Administration** – Sofia University<br><br>
+- **Master's Degree in Public Administration** – Sofia University<br><br>
 - **QA Automation Engineering** – Software University (SoftUni)<br><br>
 
 # 💻 Work
@@ -21,8 +21,8 @@
 # 🚀 Top Projects
 - 🤖 **Selenium WebDriver Project** – Automated functional UI tests for e-commerce website  
   🔗 [GitHub Repo](https://github.com/nnsokolova/SeleniumWebDriverProject) <br><br>
-- 🧪 **API Testing with Postman & Newman** – Automated API regression tests integrated with CI/CD pipelines  
-  🔗 [GitHub Repo](https://github.com/nnsokolova) *(more coming soon)* <br><br>
+- 🎭 **Playwright Automation Projects** – Modern end-to-end testing with advanced browser automation  
+  🔗 [GitHub Repos](https://github.com/nnsokolova) *(2 projects available)* <br><br>
 - 📊 **Performance Testing with JMeter & K6** – Load and stress testing, integrated with Grafana dashboards<br><br>
 
 # </> Technologies and Tools
@@ -31,6 +31,7 @@
 <img align="left" alt="csharp" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="dotnet" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="jmeter" width="40px" src="https://jmeter.apache.org/images/jmeter_square.png" />
